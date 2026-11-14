@@ -1,0 +1,19 @@
+
+language: ja_JP
+
+features:
+  ender: true
+  craft: true
+  anvil: true
+  trash: true
+  coords: true
+  stonecutter: true
+
+permissions:
+  ender: "vivace.command.ender"
+  craft: "vivace.command.craft"
+  anvil: "vivace.command.anvil"
+  trash: "vivace.command.trash"
+  coords: "vivace.command.coords"
+  stonecutter: "vivace.command.stonecutter"
+  admin: "vivace.admin"
