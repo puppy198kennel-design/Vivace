@@ -1,0 +1,17 @@
+prefix: "<aqua>[ Vivace ]</aqua>"
+
+messages:
+  plugin-enabled: "<green>Vivace has been enabled!</green>"
+  plugin-disabled: "<red>Vivace has been disabled!</red>"
+  no-permission: "<red>You don't have permission!</red>"
+  player-only: "<red>This command can only be used by players!</red>"
+  reload: "<green>Configuration reloaded!</green>"
+  feature-disabled: "<red>This feature is currently disabled.</red>"
+  ender-opened: "<green>Opened your Ender Chest!</green>"
+  craft-opened: "<green>Opened the crafting table!</green>"
+  anvil-opened: "<green>Opened the anvil!</green>"
+  stonecutter-opened: "<green>Opened the stonecutter!</green>"
+  coords: "<aqua>Coordinates: <white><x>, <white><y>, <white><z></aqua>"
+  trash-opened: "<green>Opened the trash bin!</green>"
+  trash-confirmed: "<green>Items discarded!</green>"
+  trash-cancelled: "<yellow>Discard cancelled. Your items were returned.</yellow>"
